@@ -24,6 +24,7 @@
 		E3FC28052B1EB2A900AE6363 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E3FC28082B1EB2A900AE6363 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3FC280A2B1EB2A900AE6363 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3FC28102B1EC69000AE6363 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				E3FC28052B1EB2A900AE6363 /* Assets.xcassets */,
 				E3FC28072B1EB2A900AE6363 /* LaunchScreen.storyboard */,
 				E3FC280A2B1EB2A900AE6363 /* Info.plist */,
+				E3FC28102B1EC69000AE6363 /* README.md */,
 			);
 			path = prework_codepath;
 			sourceTree = "<group>";
